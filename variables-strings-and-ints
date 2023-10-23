@@ -1,0 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
+        String first_name = "Jason";
+        String last_name = "Reid";
+        int id_num = 27;
+
+        System.out.print("Hi, my name is " + first_name + " " + last_name + "\n");
+        System.out.println("My ID number is " + id_num);
+    }
+}
