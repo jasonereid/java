@@ -1,5 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("this is a test. \n Hello world.");
+public class Main { //create the main class
+    public static void main(String[] args) { //add the main method
+        System.out.println("this is a test. \n Hello world."); //add the println method - remember that print puts it all on the same line, and println creates a new line.
     }
 }
